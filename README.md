@@ -1,2 +1,2 @@
 # montante
-Montante method for solving linear equations
+Montante method for solving linear equation sistems
